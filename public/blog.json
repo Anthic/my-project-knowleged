@@ -1,0 +1,52 @@
+[
+  {
+    "id": 1,
+    "coverimg": "https://i.ibb.co.com/5G445s4/programming-computer-illustration-vector-concept-background-1262710-55537.jpg",
+    "title": "Mastering Python: A Beginner's Guide",
+    "author": "John Doe",
+    "author_img": "https://i.ibb.co.com/3fcGMFJ/young-teacher-trying-write-notes-class-114579-77695.jpg",
+    "post_date": "2023-10-22",
+    "reading_time": 5,
+    "hashtags": ["blogging", "writing", "content", "digital"]
+  },
+  {
+    "id": 2,
+    "coverimg": "https://i.ibb.co.com/z4XDCKs/rear-view-programmer-working-all-night-long-1098-18697.jpg",
+    "title": "The Ultimate Guide to JavaScript Frameworks",
+    "author": "Jane Smith",
+    "author_img": "https://i.ibb.co.com/LQs5YSS/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+    "post_date": "2023-10-20",
+    "reading_time": 3,
+    "hashtags": ["marketing", "socialmedia", "branding", "business"]
+  },
+  {
+    "id": 3,
+    "coverimg": "https://i.ibb.co.com/6NdW4Ds/programming-background-collage-23-2149901789.jpg",
+    "title": "Building Scalable Web Applications with Node.js",
+    "author": "David Lee",
+    "author_img": "https://i.ibb.co.com/LQs5YSS/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+    "post_date": "2023-10-18",
+    "reading_time": 7,
+    "hashtags": ["technology", "innovation", "ai", "future"]
+  },
+  {
+    "id": 4,
+    "coverimg": "https://i.ibb.co.com/C1Z6ndc/coding-concept-illustration-114360-939.jpg",
+    "title": "Introduction to Data Structures and Algorithms",
+    "author": "Emily Brown",
+    "author_img": "https://i.ibb.co.com/LQs5YSS/thoughtful-creative-male-journalist-writer-biting-pencil-holding-notebook-writing-schedule-look-thin.jpg",
+    "post_date": "2023-10-15",
+    "reading_time": 10,
+    "hashtags": ["travel", "adventure", "explore", "wanderlust"]
+  },
+  {
+    "id": 5,
+    "coverimg": "https://i.ibb.co.com/DpnRH9H/top-view-laptop-glasses-with-copy-space-23-2148459760.jpg",
+    "title": "The Complete Guide to Machine Learning",
+    "author": "Michael Johnson",
+    "author_img": "https://i.ibb.co.com/j3TcVLW/front-view-serious-office-worker-sitting-table-140725-138151.jpg",
+    "post_date": "2023-10-12",
+    "reading_time": 8,
+    "hashtags": ["health", "fitness", "wellness", "lifestyle"]
+  }
+]
